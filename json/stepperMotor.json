@@ -21,13 +21,13 @@
   },
   "GenericNEMA17": {
     "mountScrew": "M3",
-    "flangeHeight": 2.0,
-    "flangeDiameter": 22.0,
-    "length": 48.0,
-    "width": 42.3,
-    "mountSpacing": 31.0,
-    "shaftLength": 23.0,
-    "shaftDiameter": 5.0
+    "flangeHeight": "2.0",
+    "flangeDiameter": "22.0",
+    "length": "48.0",
+    "width": "42.3",
+    "mountSpacing": "31.0",
+    "shaftLength": "23.0",
+    "shaftDiameter": "5.0"
   },
   "GenericNEMA8": {
     "mountScrew": "M2",
